@@ -1,2 +1,2 @@
-Direccion: Pje Juan de la Rosa s/n
-Correo: diegorosazza@gmail.com
+Direccion: Zona 2, C. Bolivar 438, La Paz
+Telefono: 2248486
