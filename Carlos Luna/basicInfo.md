@@ -1,2 +1,0 @@
-- Direccion : Zona Ticti Norte
-- Telefono : 69532516
