@@ -1,0 +1,1 @@
+Nice talk, I already knew the branching model but I clarify some doubts
