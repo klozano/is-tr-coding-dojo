@@ -1,1 +1,1 @@
-Interesting talk about about monolithic and microservices architecture
+Regarding the contents of the session, i was already familiar with the topics because i had a university class with Mauricio Terceros on the same topics, so it helped me better understand and refresh some concepts i used to know. It was one of the sessions that felt heavier due to the previous session and the one that was supposed to go after (which ended up being cancelled)

@@ -1,1 +1,1 @@
-Nice way to remember branching model and all git commands learned before
+This session helped me remember a lot of the basics on using Git, so i gained a better and propper understanding on the tool itself and a how to avoid some mistakes or bad practices. We made a practice using a GitHub repo, which helped the session to flow better. Out of all the sessions, this was the one i liked the most, even if it ended up extending over the time it was originally planned for.

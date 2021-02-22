@@ -1,1 +1,1 @@
-A completed and interesting talk about OOP by Kenji 100% recommended
+This was one of the first sessions we had, but also one of the most important. It helped refresh some concepts that we were taught in the first semester of university but at this point were no longer as clear, in my case it helped understand better the concepts of Abstraction and Encapsulation giving a diferent approach on each concept.
