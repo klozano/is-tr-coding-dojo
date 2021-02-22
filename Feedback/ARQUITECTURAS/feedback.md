@@ -1,0 +1,1 @@
+The most important thing I learned from this is the layered structure, I always thougth all the features (securyty, DB, etc.) had to be in one "layer" or file.
