@@ -1,0 +1,1 @@
+Nice way to remember branching model and all git commands learned before

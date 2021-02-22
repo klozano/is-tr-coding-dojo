@@ -1,0 +1,1 @@
+Interesting talk about about monolithic and microservices architecture

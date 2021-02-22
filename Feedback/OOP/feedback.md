@@ -1,0 +1,1 @@
+A completed and interesting talk about OOP by Kenji 100% recommended
