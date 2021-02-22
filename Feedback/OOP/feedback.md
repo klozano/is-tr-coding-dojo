@@ -1,0 +1,1 @@
+In this lecture I reviewed the bases of OOP, one thing I didn't know how to do was encapsulation in the Python environment.
