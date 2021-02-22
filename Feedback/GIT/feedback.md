@@ -1,0 +1,1 @@
+I use git since I started college, here I just learned a few specific tips that will be usefull in the future.
