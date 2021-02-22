@@ -1,1 +1,3 @@
 A completed and interesting talk about OOP by Kenji 100% recommended
+
+In this session, we were presented with OOP concepts that we had all seen in the first months of the race, so most of us did not have the fresh concepts or we forgot them completely, in my case the definitions between the concepts were somewhat blurred and tended to say it more by comparison or example than by concept, after the presentation it became clearer.
