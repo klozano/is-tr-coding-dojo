@@ -1,2 +1,2 @@
-Address 1
-Telephone 2
+Direccion : Direccion1
+Telefono : Telefono1
