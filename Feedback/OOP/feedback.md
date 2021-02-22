@@ -1,0 +1,1 @@
+It was a good presentation with the examples for the concepts

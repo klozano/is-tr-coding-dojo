@@ -1,0 +1,1 @@
+It was an interesting presentation of the architectures that company uses
