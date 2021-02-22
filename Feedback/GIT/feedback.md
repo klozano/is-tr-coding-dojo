@@ -1,1 +1,1 @@
-Nice way to remember branching model and all git commands learned before
+Explanation was clear and knew better support branches as hotfixes.

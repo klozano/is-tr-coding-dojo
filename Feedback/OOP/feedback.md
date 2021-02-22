@@ -1,1 +1,2 @@
-A completed and interesting talk about OOP by Kenji 100% recommended
+It was really good to have a concept refresh in OOP
+The exercise was interesting, made me think more about what I should do. 
