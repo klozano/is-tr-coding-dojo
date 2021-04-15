@@ -1,0 +1,1 @@
+Interesting talk, it helped me remember previous concepts

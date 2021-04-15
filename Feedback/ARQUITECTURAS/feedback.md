@@ -1,0 +1,1 @@
+Good talk, the examples make it easier for me to understand the differences between architectures
