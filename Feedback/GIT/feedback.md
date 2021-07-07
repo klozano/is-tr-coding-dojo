@@ -1,0 +1,1 @@
+- I found the GIT presentation very good, because the short and concrete tips to use this tool in a more efficient and professional way, which I didn't do it before.

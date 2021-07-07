@@ -1,0 +1,1 @@
+- This presentation unlike the previous ones was a little more theoretical but it was just as interesting, it helped me to remember information about monolithic and microservices architectures.
